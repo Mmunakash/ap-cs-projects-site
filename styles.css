@@ -1,0 +1,51 @@
+body{
+    font-family: cursive
+}
+a{
+    color: purple
+}
+a:hover{
+    color: teal
+}
+.clear{
+    clear:both;
+}
+header{
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 1px solid blue;
+}
+header h1{
+    font-size: 2em;
+}
+header h2{
+    font-size: 2em;
+}
+#projects {
+    margin:0 auto;
+    width: 90%;
+    max-width: 600px;
+}
+.scratchgame{
+    margin-bottom:20px;
+    border-bottom: 1px hotpink;
+}
+.scratchgame p{
+    width:200px;
+    float:center;
+    margin-right:10px;
+    margin-bottom:10px;
+}
+.snap{
+    width: 200px;
+    float: center;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.snap p{
+    width: 200px;
+    float: center;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
