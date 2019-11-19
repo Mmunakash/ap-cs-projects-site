@@ -33,19 +33,19 @@ header h2{
 }
 .scratchgame p{
     width:200px;
-    float:center;
+    float:left;
     margin-right:10px;
     margin-bottom:10px;
 }
 .snap{
     width: 200px;
-    float: center;
+    float: left;
     margin-right: 10px;
     margin-bottom: 10px;
 }
 .snap p{
     width: 200px;
-    float: center;
+    float: left;
     margin-right: 10px;
     margin-bottom: 10px;
 }
