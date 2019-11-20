@@ -10,6 +10,7 @@ a:hover{
 .clear{
     clear: both;
 }
+
 header{
     margin-bottom: 20px;
     padding: 20px;
@@ -18,30 +19,36 @@ header{
 header h1{
     font-size: 2em;
 }
+
 header h2{
     font-size: 2em;
 }
+
 #projects, #aboutme {
     margin:0 auto;
     width: 90%;
     max-width: 600px;
 }
+
 .project {
     margin-bottom:20px;
     border-bottom: 1px hotpink;
 }
+
 .projects {
     width:250px;
     float:left;
     margin-right:10px;
     margin-bottom:10px;
 }
+
 .projects {
     width: 250px;
     float: left;
     margin-right: 10px;
     margin-bottom: 10px;
 }
+
 .projects {
     width: 250px;
     float: left;
