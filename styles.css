@@ -48,7 +48,7 @@ header h2{
 }
 .projects {
     width: 250px;
-    float: center;
+    float: left;
     margin-right: 10px;
     margin-bottom: 10px;
 }
@@ -60,7 +60,7 @@ header h2{
 
 .projectss {
     width: 250px;
-    float: center;
+    float: left;
     margin-right: 10px;
     margin-bottom: 10px;
 }
