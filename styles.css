@@ -43,10 +43,19 @@ header h2{
 }
 
 .projects {
+    margin-bottom:20px;
+    border-bottom: 1px hotpink;
+}
+.projects {
     width: 250px;
     float: left;
     margin-right: 10px;
     margin-bottom: 10px;
+}
+
+.project {
+    margin-bottom:20px;
+    border-bottom: 1px hotpink;
 }
 
 .projects {
