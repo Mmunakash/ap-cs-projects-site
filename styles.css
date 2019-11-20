@@ -35,7 +35,7 @@ header h2{
     border-bottom: 1px hotpink;
 }
 
-.projects {
+.project {
     width:250px;
     float:left;
     margin-right:10px;
@@ -53,12 +53,12 @@ header h2{
     margin-bottom: 10px;
 }
 
-.projects {
+.projectss {
     margin-bottom:20px;
     border-bottom: 1px hotpink;
 }
 
-.projects {
+.projectss {
     width: 250px;
     float: left;
     margin-right: 10px;
